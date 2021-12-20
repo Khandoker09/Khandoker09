@@ -17,7 +17,7 @@ Usability:
 - Find the Correlation between the columns
 - Plotting is possible only for Scatter, Line, Histogram, Bar, and Funnel charts.
 
-####[Github](https://github.com/Khandoker09/daZ)
+#### [Github](https://github.com/Khandoker09/daZ)
 
 ### Interative journal using R
 

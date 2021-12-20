@@ -6,11 +6,11 @@ permalink: /pub/
 
 
 
-- A New Approach of Brain MRI Analysis for Identifying Creutzfeldt-Jakob Disease (CJD)
+- [A New Approach of Brain MRI Analysis for Identifying Creutzfeldt-Jakob Disease (CJD)
   (Akib Jayed Islam, Khandoker Tanjim Ahammad, Bithi Barua, Sadman Shahriar Alam,
   Akash Biswas) 3rd
   IEEE International Conference on Electrical Information and
-  Communication Technology (EICT) 7-9 December, 2017-Khulna- Bangladesh.
+  Communication Technology (EICT) 7-9 December, 2017-Khulna- Bangladesh.]
   (http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8275191&isnumber=8275120)
   
 - Design, Kinematic and Performance Evaluation of a Dual Arm Bomb Disposal Robot

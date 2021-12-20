@@ -1,3 +1,9 @@
+---
+layout: page
+title: Project
+permalink: /project/
+---
+
 Projects
 daZ
 Interactive dashboard app using streamlit and python. usability:

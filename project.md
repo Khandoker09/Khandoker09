@@ -4,8 +4,6 @@ title: Project
 permalink: /project/
 ---
 
-# Projects
-
 #### [daZ](dazdashboard.herokuapp.com/)
 Interactive dashboard app using streamlit and python. 
 
@@ -18,9 +16,11 @@ Usability:
 - Find the total number of null value
 - Find the Correlation between the columns
 - Plotting is possible only for Scatter, Line, Histogram, Bar, and Funnel charts.
-#### [Github](https://github.com/Khandoker09/daZ)
+
+####[Github](https://github.com/Khandoker09/daZ)
 
 ### Interative journal using R
+
 I have built an interactive journal as part of my course project in TU-Hamburg link. (password if required: root09)
 
 #### [Github]()
@@ -31,7 +31,7 @@ This is a small app that can be used as a desktop notifier which currently only 
 
 #### [Github]()
 
-#### [Emma]()
+### [Emma]()
 
 Emma is a chatbot that fully develops using python and can be run on windows without installing. it can answer various Questions by taking input from a user.
 

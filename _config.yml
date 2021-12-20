@@ -60,6 +60,7 @@ header_pages:
  - index.md
  - project.md
  - Team.md
+ - pub.md
 # Build settings
 theme: minima
 

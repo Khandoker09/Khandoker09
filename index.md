@@ -23,9 +23,11 @@ developing algorithms, machine learning, Interactive dashboard with dash, stream
 
 ## Projects
 
-Basic of data science with R
+Interative journal using R
 
-I have done some basic coding with R to analyze data about and scrape data you can find that under this [link](https://tuhhstartupengineers.github.io/ds_basics-Khandoker09/)
+I have build  interactive journal as part of my course project in TU-Hamburg  [link](https://tuhhstartupengineers.github.io/ds_basics-Khandoker09/). (password if required : root09)
+
+
 
 # Exploratory data analysis of New York city Air BnB
 #### Task:

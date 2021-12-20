@@ -22,6 +22,7 @@ developing algorithms, machine learning, Interactive dashboard with dash, stream
 ## Projects
 
 ### [daZ](https://dazdashboard.herokuapp.com/)
+
 Interactive dashboard app using streamlit and python.
 usability:
 - Can open .CSV and :xlxs file
@@ -53,4 +54,12 @@ Emma is a chatbot that fully develops using python and can be run on windows wit
 
 ### EDA
 
-Running Exploratory data analysis in various open-source datasets.Then also visualize those datasets for better understanding. In some cases, python and machine learning and in some cases advance algorithm likes AUC(ROC) or Linear or Logistics regression
+Running Exploratory data analysis in various open-source datasets.Then also visualize those datasets for better understanding. In some cases, python and machine learning and in some cases advance algorithm likes AUC(ROC) or Linear or Logistics regression.
+
+### Natural Language Processing:
+
+I have also done some NLP using python for sentiment analysis.
+
+### Web Scraping project:
+
+For collecting raw data from internate web scraping is needed. I have done some scraping on Twitter, Scopus or some other website to scrape raw data. Often for scraping raw data we need special requirement and special API keys. Also as researcher the API key has certain limitations too. 

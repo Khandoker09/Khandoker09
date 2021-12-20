@@ -4,26 +4,38 @@
 
 layout: home
 ---
+# Welcome to my site !!!
 
+## Hi!!
 
+I am Khandoker Tanjim Ahammad, is a student of Microelectronics and Microsystem in TU-Hamburg. I have done My bachelor's from Americal International University Bangladesh in 2016 from the Electronics department. In 2017 I moved to Hamburg, Germany where I started my master's in Microelectronics. In 2019, I finished my internship in Euler Hermes Rating GmbH which is a part of Allianz. where I worked in Data Science Research & Development department. In 2020 November, I joined as a Research assistant at Leibniz Institute/HBI. Currently I am working in Desk-net GmbH as data researcher assistant.
 
-Khandoker Tanjim Ahammad is a student of Microelectronics and Microsystem in TU-Hamburg. I have done My bachelor from Americal International University Bangladesh in 2016 from Electronics department. In 2017 I move to Hamburg, Germany where I started my masters on Microelectroncis. In 2019, I have started as intern in Euler Hermes Rating GmbH in the Data science Department(R & D) which is part of Allianz. Currently I am working in Leibniz Institute/HBI as a working student.
-Interested:
+## Expertise:
+My experties is moslty with python, R, Excel, Dash, MYSQL, Streamlit and shiny 
 
-I am interested mostly in python, R and data science and machine learning and natural languge processing, Big data analysis and Deep learning.
+## Interatrest: 
+
+Over the year I gain lots of experience by working with some brilliant people. 
+I am mostly interested working with data science.
+exploratory data analysis, data visualization, 
+developing algorithms, machine learning, Interactive dashboard with dash, streamlit and shiny and  Natural language processing is what i am good at
+
 
 ## Projects
 
 Basic of data science with R
 
-I have done some basic coding with R to analyse data about and scrape data you can find that under this [link](https://tuhhstartupengineers.github.io/ds_basics-Khandoker09/)
+I have done some basic coding with R to analyze data about and scrape data you can find that under this [link](https://tuhhstartupengineers.github.io/ds_basics-Khandoker09/)
 
-# Exploratory data analysis of New York city Air bnb
+# Exploratory data analysis of New York city Air BnB
 #### Task:
-- Show the house in a interactive map
-- Find which neighbourhood 	has highest number of housing 
-- Find which room type has highest price based on neighbourhood 
+- Show the house on a interactive map
+- Find which neighborhood 	has highest number of housing 
+- Find which room type has the highest price based on neighborhood 
 - Neighbourhood's has price range 
-- Predict the price based of parameter 
+- Predict the price based on parameter 
+
+
+
 
 

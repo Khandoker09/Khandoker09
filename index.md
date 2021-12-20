@@ -11,7 +11,7 @@ I am Khandoker Tanjim Ahammad, is a student of Microelectronics and Microsystem 
 ## Expertise:
 My experties is moslty with python, R, Excel, Dash, MYSQL, Streamlit and shiny 
 
-## Interatrest: 
+## Interest: 
 
 Over the year I gain lots of experience by working with some brilliant people. 
 I am mostly interested working with data science.
@@ -22,39 +22,35 @@ developing algorithms, machine learning, Interactive dashboard with dash, stream
 ## Projects
 
 ### [daZ](https://dazdashboard.herokuapp.com/)
-Interactive dashboad app using streamlit and python.
+Interactive dashboard app using streamlit and python.
 usability:
 - Can open .CSV and :xlxs file
-- Show whole dataset with columns name. 
+- Show the whole dataset with columns name. 
 - Sort columns
 - Drop columns 
 - Find the total number of null value
 - Find the Correlation between the columns 
-- Ploting possible only for Scatter, Line, Histogram, Bar and Funnel chart.
+- Plotting is possible only for Scatter, Line, Histogram, Bar, and Funnel charts.
 ##### [Github](https://github.com/Khandoker09/daZ)
 
 ### [Interative journal using R]()
 
-I have build  interactive journal as part of my course project in TU-Hamburg  [link](https://tuhhstartupengineers.github.io/ds_basics-Khandoker09/). (password if required : root09)
+I have built an interactive journal as part of my course project in TU-Hamburg  [link](https://tuhhstartupengineers.github.io/ds_basics-Khandoker09/). (password if required: root09)
 #### [Github](https://github.com/TUHHStartupEngineers/ds_basics-Khandoker09)
 
 
 ### Desktop notifier
 
-This is a small app which can be use as desktop notifier which currently only work in windows OS. 
+This is a small app that can be used as a desktop notifier which currently only works in Windows OS. 
 
 #### [Github]
 
 ### chatbot Emma
 
-Emma is a chatbot which fully develop using python and can be run at windows without installing. it can answare various Question by taking input from a user.
+Emma is a chatbot that fully develops using python and can be run on windows without installing. it can answer various Questions by taking input from a user.
 
 ####[Githib]
 
 ### EDA
 
-Running Exploratory data analysis in various opensourece datasets.Then also visualize those datasets for better understanding.In some cases python and machine learning and in somecases advace algorithm likes AUC(ROC) or Linear or Logistics regrassion
-
-
-
-
+Running Exploratory data analysis in various open-source datasets.Then also visualize those datasets for better understanding. In some cases, python and machine learning and in some cases advance algorithm likes AUC(ROC) or Linear or Logistics regression

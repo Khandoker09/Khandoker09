@@ -48,3 +48,6 @@ I have also done some NLP using python for sentiment analysis.
 #### Web Scraping project:
 
 For collecting raw data from the internet web scraping is needed. I have done some scraping on Twitter, Scopus, or some other website to scrape raw data. Often for scraping raw data we need special requirements and special API keys. As a researcher, the API key has certain limitations too.
+
+#### Regex project 
+- collecting link from any text and convert them to a markdown format and save them in '.md' file. 

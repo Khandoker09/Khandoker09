@@ -23,19 +23,19 @@ Usability:
 
 I have built an interactive journal as part of my course project in TU-Hamburg link. (password if required: root09)
 
-#### [Github]()
+##### [Github]()
 
 ### Desktop notifier
 
 This is a small app that can be used as a desktop notifier which currently only works in Windows OS.
 
-#### [Github]()
+##### [Github]()
 
 ### [Emma]()
 
 Emma is a chatbot that fully develops using python and can be run on windows without installing. it can answer various Questions by taking input from a user.
 
-####[Githib]
+##### [Githib]
 
 ### EDA
 

@@ -3,4 +3,4 @@ layout: page
 title: Team
 permalink: /Team/
 ---
-I am currently working alone. there's always possibiliy for collaborations.
+There is always possibility to colleborate with other people. Feel free to contract me for a joint project.

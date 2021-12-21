@@ -31,3 +31,9 @@ I am mostly interested working with data science and machine Learning.
 
 ## Current project:
 - Developing algorithms for Systematic literature review(SLR)
+- Interactive Dashboard for text classfier and tokenization
+- Interactive dashboard scrapper for AMA journal 
+- Usefull Interface for data analysis using Dash
+- Simple algorithm to generate AUC(ROC) in python 
+- Linear/Logistics Regression algorithm for suitable datasets
+- SVM for Suitable datasets 

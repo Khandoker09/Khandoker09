@@ -55,4 +55,4 @@ For collecting raw data from the internet web scraping is needed. I have done so
 
 ### [ExcelToMarkdown convert:](https://github.com/Khandoker09/exceltomarkdown)
 
-This repository can help us to to convert excel sheet to a markdown table. which is very handy if you are writing something in markdown  
+This repository can help us to to convert excel sheet to a markdown table. which is very handy if you are writing something in markdown.

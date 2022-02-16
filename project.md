@@ -48,6 +48,8 @@ I have also done some NLP using python for sentiment analysis.
 #### Web Scraping project:
 
 For collecting raw data from the internet web scraping is needed. I have done some scraping on Twitter, Scopus, or some other website to scrape raw data. Often for scraping raw data we need special requirements and special API keys. As a researcher, the API key has certain limitations too.
+### [twitteruserFinder:](https://github.com/Khandoker09/twitteruserFinder)
+Its a simple tools to manage twitter query in a excel file. using Twitter developer api, tweepy and tkinter this whole script was written. Because its uses twitter developer api it can only scrape upto 1000 users informations.using tkinter i have made a very simple user interface so that any no tech background people who does not know how to write a code can also work with this script.
 
 ### Regex project:
 

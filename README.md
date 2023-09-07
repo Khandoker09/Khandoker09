@@ -46,9 +46,6 @@
 ### Tools
 ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-![Steamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![]()
-![]()
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
@@ -56,7 +53,7 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 
+### Git Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khandoker09&show_icons=true&locale=en&layout=compact" alt="khandoker09" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khandoker09&show_icons=true&locale=en" alt="khandoker09" /></p>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=khandoker09&show_icons=true&theme=merko" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khandoker09&layout=compact&hide=html,css,c%2B%2B&theme=merko" />

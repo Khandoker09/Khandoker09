@@ -1,21 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khandoker</h1>
-<h3 align="center">Data science enthusiastic</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khandoker09&label=Profile%20views&color=0e75b6&style=flat" alt="khandoker09" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khandoker09" alt="khandoker09" /></a> </p>
-
-## About Me
-
-- 🔭 I’m currently working on [Machine learning](https://github.com/Khandoker09/image_deep_L) and Data Science
-
-- 👯 I’m looking to collaborate on **Any project related to data science**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-   <a href="mailto:alttanjim@gmail.com" alt="upal140890@gmail.com" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/65736523/198883053-023b7933-876b-4853-9d6f-22255a55c723.png" alt="Email" width="30px" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/khandokerahammad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khandokerahammad/" height="30" width="40" /></a>
-</p>
 
 ## Technical Skills
 ### Languages

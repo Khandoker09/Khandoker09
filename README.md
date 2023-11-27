@@ -36,7 +36,3 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 
-### Git Stats
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=khandoker09&show_icons=true&theme=merko" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khandoker09&layout=compact&hide=html,css,c%2B%2B&theme=merko" />

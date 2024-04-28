@@ -7,11 +7,11 @@ layout:home
 ---
 Hi!
 
-I am Khandoker Tanjim Ahammad, is a student of Microelectronics and Microsystem in TU-Hamburg. I have done My bachelor's from Americal International University Bangladesh in 2016 from the Electronics department. In 2017 I moved to Hamburg, Germany where I started my master's in Microelectronics. In 2019, I finished my internship in Euler Hermes Rating GmbH which is a part of Allianz. where I worked in Data Science Research & Development department. In 2020 November, I joined as a Research assistant at Leibniz Institute/HBI. Currently I am working in Desk-net GmbH as data researcher assistant.
+I am Khandoker Tanjim Ahammad, is a student of Microelectronics and Microsystem in TU-Hamburg. I completed My bachelor's from Americal International University Bangladesh in 2016 from the Electronics department. In 2017 I moved to Hamburg, Germany where I started my master's in Microelectronics. In 2019, I finished my internship in Euler Hermes Rating GmbH which is a part of Allianz. where I worked in Data Science Research & Development department. In 2020 November, I joined as a Research Assistant at Leibniz Institute/HBI. Currently, I am working in Desk-net GmbH as a data researcher assistant.
 
 ## Expertise:
-My experties are:
-- python 
+My experiences are:
+- Python 
 - R 
 - Excel 
 - Dash 
@@ -22,18 +22,18 @@ My experties are:
 ## Interest: 
 
 Over the year I gain lots of experience by working with some brilliant minds. 
-I am mostly interested working with data science and machine Learning.
+I am mostly interested in working with data science and machine Learning.
 
 - Exploratory data analysis,
 - Data visualization, 
-- Developing algorithms, machine learning, Interactive dashboard with dash, streamlit and shiny
-- Natural language processing is what i am good at
+- Developing algorithms, machine learning, and an Interactive dashboard with dash, streamlit and shiny
+- Natural language processing is what I am good at
 
 ## Current project:
 - Developing algorithms for Systematic literature review(SLR)
-- Interactive Dashboard for text classfier and tokenization
+- Interactive Dashboard for text classifier and tokenization
 - Interactive dashboard scrapper for AMA journal 
-- Usefull Interface for data analysis using Dash
+- Useful Interface for data analysis using Dash
 - Simple algorithm to generate AUC(ROC) in python 
 - Linear/Logistics Regression algorithm for suitable datasets
 - SVM for Suitable datasets 

@@ -3,8 +3,6 @@ title: Publications
 layout: page
 ---
 
-# Publications
-
 Here is a list of my publications, including journal articles and conference proceedings.
 
 # Bibliography

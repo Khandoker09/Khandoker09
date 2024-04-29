@@ -27,14 +27,14 @@ I am intereted in the following topics:
 
 ## Open-source Projects and Prototype App:
 Data Analysis Project
-•	SaVed: A simple data analyzing app for excel data. Build with Python, Pandas and Streamlit. Github link
-•	DaZ: A data manipulation app Build with Python pandas and Plotly-Dash. Github link.
+-	SaVed: A simple data analyzing app for excel data. Build with Python, Pandas and Streamlit. Github link
+-	DaZ: A data manipulation app Build with Python pandas and Plotly-Dash. Github link.
 
 ML-Project
-•	Simple Text Summarizer: A NLP app to summarize any English text. Based on hugging face T5 small model. Github link
-•	Emotion Detection: A Deep Learning app trained on CNN for detecting emotion from image. Github link.
-•	Parking Space Tracker: A simple project to track and count parking space from video feed. Based on Python and Open CV. Github link
-•	Image Denoiser: A project to simply denoise image using Autoencoder based on CNN. Github link
-•	Diffusion model Image denoiser: A simple trained model based on generative adversarial network. Github link
-•	Lip reading: Machine learning app that can read lip from video feed. Github link
+-	Simple Text Summarizer: A NLP app to summarize any English text. Based on hugging face T5 small model. Github link
+-	Emotion Detection: A Deep Learning app trained on CNN for detecting emotion from image. Github link.
+-	Parking Space Tracker: A simple project to track and count parking space from video feed. Based on Python and Open CV. Github link
+-	Image Denoiser: A project to simply denoise image using Autoencoder based on CNN. Github link
+-	Diffusion model Image denoiser: A simple trained model based on generative adversarial network. Github link
+-	Lip reading: Machine learning app that can read lip from video feed. Github link
 

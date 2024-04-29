@@ -10,30 +10,31 @@ Hi!
 I am Khandoker Tanjim Ahammad, is a student of Microelectronics and Microsystem in TU-Hamburg. I completed My bachelor's from Americal International University Bangladesh in 2016 from the Electronics department. In 2017 I moved to Hamburg, Germany where I started my master's in Microelectronics. In 2019, I finished my internship in Euler Hermes Rating GmbH which is a part of Allianz. where I worked in Data Science Research & Development department. In 2020 November, I joined as a Research Assistant at Leibniz Institute/HBI. Currently, I am working in Desk-net GmbH as a data researcher assistant.
 
 ## Expertise:
-My experiences are:
-- Python 
-- R 
-- Excel 
-- Dash 
-- MYSQL 
-- Streamlit
-- shiny 
+Data Analysis: Python, R, Bash, SQL, Power BI, STATA, C++, Git, Git-version control, CLI
+Machine learning: TensorFlow, Keras, Pytorch, Deep Learning, Open Cv
+Dashboard: Streamlit and Plotly
+
 
 ## Interest: 
 
 Over the year I gain lots of experience by working with some brilliant minds. 
-I am mostly interested in working with data science and machine Learning.
+I am intereted in the following topics:
+- Computer vision
+- Image processing
+- deep learning
+- Biomedical Image analyisis
+- Point Cloud 
 
-- Exploratory data analysis,
-- Data visualization, 
-- Developing algorithms, machine learning, and an Interactive dashboard with dash, streamlit and shiny
-- Natural language processing is what I am good at
+## Open-source Projects and Prototype App:
+Data Analysis Project
+•	SaVed: A simple data analyzing app for excel data. Build with Python, Pandas and Streamlit. Github link
+•	DaZ: A data manipulation app Build with Python pandas and Plotly-Dash. Github link.
 
-## Current project:
-- Developing algorithms for Systematic literature review(SLR)
-- Interactive Dashboard for text classifier and tokenization
-- Interactive dashboard scrapper for AMA journal 
-- Useful Interface for data analysis using Dash
-- Simple algorithm to generate AUC(ROC) in python 
-- Linear/Logistics Regression algorithm for suitable datasets
-- SVM for Suitable datasets 
+ML-Project
+•	Simple Text Summarizer: A NLP app to summarize any English text. Based on hugging face T5 small model. Github link
+•	Emotion Detection: A Deep Learning app trained on CNN for detecting emotion from image. Github link.
+•	Parking Space Tracker: A simple project to track and count parking space from video feed. Based on Python and Open CV. Github link
+•	Image Denoiser: A project to simply denoise image using Autoencoder based on CNN. Github link
+•	Diffusion model Image denoiser: A simple trained model based on generative adversarial network. Github link
+•	Lip reading: Machine learning app that can read lip from video feed. Github link
+

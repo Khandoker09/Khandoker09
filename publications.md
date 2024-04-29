@@ -5,24 +5,23 @@ layout: page
 
 Here is a list of my publications, including journal articles and conference proceedings.
 
-# Bibliography
+## Conference Papers
+
+1. **Cvetkovic, I., Santos, M., Bittner, E., & Ahammad, K. T.** (2024, April). Alexa, let’s brainstorm: Unleashing the potential of conversational agents for facilitating brainstorming. Paper submitted to the 31st European Conference on Information System (ECIS), Kristiansand, Norway.
+
+2. **Islam, A. J., Ahammad, K. T., Barua, B., Alam, S. S., & Biswas, A.** (2017, December). A new approach of brain MRI analysis for identifying Creutzfeldt-Jakob disease (CJD). Proceedings of the 3rd IEEE International Conference on Electrical Information and Communication Technology (EICT), Khulna, Bangladesh. [IEEE Xplore](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8275191&isnumber=8275120).
+
+3. **Islam, A. J., Alam, S. S., Ahammad, K. T., Nadim, F. K., & Barua, B.** (2017, December). Design, kinematic and performance evaluation of a dual arm bomb disposal robot. Proceedings of the 3rd IEEE International Conference on Electrical Information and Communication Technology (EICT), Khulna, Bangladesh. [IEEE Xplore](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8275193&isnumber=8275120).
+
+4. **Biswas, A., Islam, A. J., Ahammad, K. T., & Barua, B.** (2017, December). A miniaturized on-body matched antenna design and its performance evaluation at ISM band. Proceedings of the 3rd IEEE International Conference on Electrical Information and Communication Technology (EICT), Khulna, Bangladesh. [IEEE Xplore](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8275170&isnumber=8275120).
 
 ## Journal Articles
 
-**Alam, S. S., Islam, N. N. A. J., & Ahammad, K. T.** (2017). Hand gesture detection using haar classifier with appropriate skin color, kernel sizing & auto thresholding. *International Journal of Scientific & Engineering Research, 8*(3), 98.
+5. **Ahammad, K. T., Kundu Anik, A., & Suravee, S.** (2017, September). Mapping of mammalian Purkinje network on an electrically equivalent circuit. International Journal of Innovation and Scientific Research (IJISR), 27(1). 
 
-**Nadim, F. K., Islam, A. J., Alam, S. S., Aleef, T. A., & Ahammad, K. T.** Design and Simulation of Active and Reactive Power Control of Double-Fed Induction Generator for Wind Energy Conversion.
+6. **Alam, S. S., Islam, A. J., Nasrin, N., & Ahammad, K. T.** (2017, March). Hand gesture detection using Haar classifier with appropriate skin color, kernel sizing & auto thresholding. International Journal of Scientific & Engineering Research (IJSER), 8(3). ISSN 2229-5518.
 
-## Conference Proceedings
+7. **Nadim, F. K., Islam, A. J., Alam, S. S., Aleef, T. A., & Ahammad, K. T.** (2017, March). Design and simulation of active and reactive power control of double-fed induction generator for wind energy conversion. International Journal of Scientific & Engineering Research (IJSER), 8(3), ISSN: 2229-5518.
 
-**Islam, A. J., Ahammad, K. T., Barua, B., Alam, S. S., & Biswas, A.** (2017). A new approach of brain MRI analysis for identifying creutzfeldt-jakob disease (CJD). In *2017 3rd International Conference on Electrical Information and Communication Technology (EICT)* (pp. 1-5). IEEE.
-
-**Islam, A. J., Alam, S. S., Ahammad, K. T., Nadim, F. K., & Barua, B.** (2017). Design, kinematic and performance evaluation of a dual arm bomb disposal robot. In *2017 3rd International Conference on Electrical Information and Communication Technology (EICT)* (pp. 1-6). IEEE.
-
-**Biswas, A., Islam, A. J., Ahammad, K. T., & Barua, B.** (2017). A miniaturized on-body matched antenna design and its performance evaluation at ISM band. In *2017 3rd International Conference on Electrical Information and Communication Technology (EICT)* (pp. 1-6). IEEE.
-
-## Other Works
-
-**Ahammad, K. T., Kundu, A., & Suravee, S.** (2017). Mapping of Mammalian Purkinje Network on an Electrically Equivalent Circuit.
 
 

@@ -51,3 +51,9 @@ I am passionate about:
 
 View my [research and publications](/publications).
 
+
+## Contact
+
+If you have any questions or would like to get in touch, feel free to [contact me](/contact).
+
+

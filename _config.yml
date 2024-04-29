@@ -58,9 +58,9 @@ minima:
 header_pages:
  - index.md
  - project.md
- - Team.md
+ #- Team.md
  - pub.md
- - about.md
+# - about.md
 # Build settings
 theme: minima
 

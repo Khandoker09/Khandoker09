@@ -4,7 +4,9 @@
 title: Home
 layout:home
 ---
-![Banner Description](https://www.innovationaus.com/wp-content/uploads/2020/07/Security_410057710_OP.jpg)
+
+<img src="https://www.innovationaus.com/wp-content/uploads/2020/07/Security_410057710_OP.jpg" alt="Banner Description" style="width:100%; height:auto; display:block;">
+
 
 # About Me
 

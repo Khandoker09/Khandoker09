@@ -1,7 +1,6 @@
 ---
+title: Contact Me
 layout: page
-title: Contract me 
-permalink: /about/
 ---
 
 # Contact Me

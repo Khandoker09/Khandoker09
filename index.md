@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: home
+layout: [home](https://tanjim.net/)
 ---
 
 

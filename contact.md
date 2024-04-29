@@ -3,8 +3,6 @@ title: Contact Me
 layout: page
 ---
 
-# Contact Me
-
 Feel free to reach out to me for any inquiries, collaborations, or just to say hello! Below you'll find all the necessary contact details.
 
 ## Direct Contact

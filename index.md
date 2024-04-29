@@ -26,6 +26,22 @@ layout: home
 - **Tools & VCS**: Git, CLI
 
 ---
+---
+Education
+
+MSc in Microsystems and Microelectronics (MEMS)
+Technology University Hamburg (TUHH)/Graduated: Feb 2024
+- Masters Project: New product Development strategy: Topic modelling based 
+on Lenten Dirichlet Allocations Algorithms (NLP).
+-	Master Thesis: Noise detection on High Density Point Cloud Data from a White Light Interferometer using deep learning. 
+-	Focusing on computer vision, machine learning and data science 
+
+BSc in Electrical and Electronic Engineering (EEE)
+American International University – Bangladesh (AIUB)/Graduated: Feb 2016
+-	Bachelor Thesis: Mapping of Mammalian Purkinje Network on an Electrically Equivalent Circuit
+-	Focusing on Electronics and Image data 
+
+---
 ## Interests
 
 I am passionate about:

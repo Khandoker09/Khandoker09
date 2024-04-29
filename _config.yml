@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   
 #https://khandoker09.github.io/khandoker/
 show_excerpts: false # set to true to show excerpts on the homepage
-baseurl: "/khandoker" # the subpath of your site, e.g. /blog
+#baseurl: "/khandoker" # the subpath of your site, e.g. /blog
 url: "https://tanjim.net/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 
@@ -20,7 +20,7 @@ minima:
   date_format: "%b %-d, %Y"
   skin: dark
   # generate social links in footer
-  social_links:
+  #social_links:
     #twitter: jekyllrb
     #github:  jekyll
     # devto: jekyll

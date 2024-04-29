@@ -8,7 +8,6 @@ layout:home
     <h1 style="color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">About Me</h1>
 </div>
 
-# About Me
 
 **I am an engineer with specialized expertise in machine learning, computer vision, and biomedical image analysis.** My foundation in data science, combined with proficiency in Python, enables me to develop and implement innovative solutions that tackle complex challenges. My skills help me extract meaningful insights from vast data sets, driving efficiency and innovation in various applications.
 

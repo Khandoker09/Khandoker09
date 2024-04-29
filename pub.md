@@ -5,6 +5,8 @@ layout: page
 
 # Publications
 
+Here is a list of my publications, including journal articles and conference proceedings.
+
 ## Journal Articles
 
 ### 1. Hand Gesture Detection Using Haar Classifier
@@ -26,4 +28,24 @@ layout: page
 **Organization**: IEEE  
 **Title**: A new approach of brain MRI analysis for identifying creutzfeldt-jakob disease (CJD)  
 
-... (add more publications as needed)
+### 2. Design, Kinematic and Performance Evaluation of a Dual Arm Bomb Disposal Robot
+**Authors**: Akib Jayed Islam, Sadman Shahriar Alam, Khandoker Tanjim Ahammad, Fazllul Karim Nadim, Bithi Barua  
+**Conference**: 2017 3rd International Conference on Electrical Information and Communication Technology (EICT)  
+**Pages**: 1-6, **Year**: 2017  
+**Organization**: IEEE  
+**Title**: Design, kinematic and performance evaluation of a dual arm bomb disposal robot  
+
+### 3. A Miniaturized On-body Matched Antenna Design
+**Authors**: Akash Biswas, Akib Jayed Islam, Khandoker Tanjim Ahammad, Bithi Barua  
+**Conference**: 2017 3rd International Conference on Electrical Information and Communication Technology (EICT)  
+**Pages**: 1-6, **Year**: 2017  
+**Organization**: IEEE  
+**Title**: A miniaturized on-body matched antenna design and its performance evaluation at ISM band  
+
+## Other Works
+
+### 1. Mapping of Mammalian Purkinje Network on an Electrically Equivalent Circuit
+**Authors**: Khandoker Tanjim Ahammad, Animesh Kundu, Sumaiya Suravee  
+**Year**: 2017  
+**Title**: Mapping of Mammalian Purkinje Network on an Electrically Equivalent Circuit
+

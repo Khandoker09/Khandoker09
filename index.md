@@ -47,4 +47,7 @@ I am passionate about:
 - **Diffusion Model Image Denoiser**: Based on a generative adversarial network. [GitHub](#)
 - **Lip Reading**: Machine learning app that reads lips from video feeds. [GitHub](#)
 
+## Publications
+
+View my [research and publications](/publications).
 

@@ -1,26 +1,29 @@
 ---
-layout: page
 title: Publications
-permalink: /pub/
+layout: page
 ---
 
+# Publications
 
+## Journal Articles
 
-- A New Approach of Brain MRI Analysis for Identifying Creutzfeldt-Jakob Disease (CJD)
-  (Akib Jayed Islam, Khandoker Tanjim Ahammad, Bithi Barua, Sadman Shahriar Alam,
-  Akash Biswas) 3rd
-  IEEE International Conference on Electrical Information and
-  Communication Technology (EICT) 7-9 December, 2017-Khulna- Bangladesh.
-  [pdf](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8275191&isnumber=8275120)
-  
-- Design, Kinematic and Performance Evaluation of a Dual Arm Bomb Disposal Robot
-  (Akib Jayed Islam, Sadman Shahriar Alam, Khandoker Tanjim Ahammad, Fazllul Karim
-  Nadim, Bithi Barua.)3rd IEEE International Conference on Electrical Information and
-  Communication Technology (EICT) 7-9 December, 2017-Khulna-Bangladesh.
-  [pdf](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8275193&isnum ber=8275120)
-  
-- A miniaturized on-body matched antenna design and its performance evaluation at ISM band
-  (Akash Biswas, Akib Jayed Islam, Khandoker Tanjim Ahammad, Bithi Barua.)3rd IEEE
-  International Conference on Electrical Information and Communication Technology (EICT) 7-9
-  December, 2017-Khulna-Bangladesh.
-  [pdf](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8275170&isnumber=8275120)
+### 1. Hand Gesture Detection Using Haar Classifier
+**Authors**: Sadman Shahriar Alam, NNAJ Islam, KT Ahammad  
+**Journal**: International Journal of Scientific & Engineering Research  
+**Volume**: 8, **Number**: 3, **Pages**: 98, **Year**: 2017  
+**Title**: Hand gesture detection using haar classifier with appropriate skin color, kernel sizing & auto thresholding  
+
+### 2. Design and Simulation of Active and Reactive Power Control
+**Authors**: Fazllul Karim Nadim, Akib Jayed Islam, Sadman Shahriar Alam, Tajwar Abrar Aleef, Khandoker Tanjim Ahammad  
+**Title**: Design and Simulation of Active and Reactive Power Control of Double-Fed Induction Generator for Wind Energy Conversion  
+
+## Conference Proceedings
+
+### 1. A New Approach of Brain MRI Analysis
+**Authors**: Akib Jayed Islam, Khandoker Tanjim Ahammad, Bithi Barua, Sadman Shahriar Alam, Akash Biswas  
+**Conference**: 2017 3rd International Conference on Electrical Information and Communication Technology (EICT)  
+**Pages**: 1-5, **Year**: 2017  
+**Organization**: IEEE  
+**Title**: A new approach of brain MRI analysis for identifying creutzfeldt-jakob disease (CJD)  
+
+... (add more publications as needed)

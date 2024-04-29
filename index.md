@@ -4,9 +4,9 @@
 title: Home
 layout:home
 ---
-
-<img src="https://www.innovationaus.com/wp-content/uploads/2020/07/Security_410057710_OP.jpg" alt="Banner Description" style="width:100%; height:auto; display:block;">
-
+<div style="background: url('https://www.innovationaus.com/wp-content/uploads/2020/07/Security_410057710_OP.jpg') no-repeat center center; background-size: cover; box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-align: center; padding: 100px 20px;">
+    <h1 style="color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">About Me</h1>
+</div>
 
 # About Me
 

@@ -36,24 +36,4 @@ I am passionate about:
 - **Point Cloud**
 
 ---
-## Open-source Projects and Prototype Apps
 
-### Data Analysis Projects
-- **SaVed**: Data analyzing app for Excel, using Python, Pandas, and Streamlit. [GitHub](https://github.com/Khandoker09/SaVeDv0.1)
-- **DaZ**: Data manipulation app using Python, Pandas, and Plotly-Dash. [GitHub](https://github.com/Khandoker09/daZ-v0.2)
-
-### Machine Learning Projects
-- **Simple Text Summarizer**: NLP app summarizing English text with the Hugging Face T5 model. [GitHub](https://github.com/Khandoker09/simple_text_summarizer)
-- **Emotion Detection**: Deep Learning app using CNN to detect emotions from images. [GitHub](https://github.com/Khandoker09/image_deep_L)
-- **Parking Space Tracker**: Tracks and counts parking spaces from video feeds, built with Python and OpenCV. [GitHub](#)
-- **Image Denoiser**: Denoises images using an Autoencoder based on CNN. [GitHub](#)
-- **Diffusion Model Image Denoiser**: Based on a generative adversarial network. [GitHub](#)
-- **Lip Reading**: Machine learning app that reads lips from video feeds. [GitHub](#)
-
-## Publications
-
-View my [research and publications](/publications).
-
-## Contact
-
-If you have any questions or would like to get in touch, feel free to [contact me](/contact).

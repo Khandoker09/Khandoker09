@@ -1,12 +1,11 @@
-
-title: K.T. Ahammad
+#title: K.T. Ahammad
 #email: alttanjim@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   
 #https://khandoker09.github.io/khandoker/
 show_excerpts: false # set to true to show excerpts on the homepage
 baseurl: "/khandoker" # the subpath of your site, e.g. /blog
-url: "https://khandoker09.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tanjim.net/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 
 #github_username:  Khandoker09
@@ -55,7 +54,7 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-header_pages:
+#header_pages:
 # - index.md
  #- project.md
  #- Team.md

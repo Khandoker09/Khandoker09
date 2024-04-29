@@ -1,40 +1,50 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: page
 title: Home
 layout:home
 ---
-Hi!
+![Banner Description](https://www.innovationaus.com/wp-content/uploads/2020/07/Security_410057710_OP.jpg)
 
-I am Khandoker Tanjim Ahammad, is a student of Microelectronics and Microsystem in TU-Hamburg. I completed My bachelor's from Americal International University Bangladesh in 2016 from the Electronics department. In 2017 I moved to Hamburg, Germany where I started my master's in Microelectronics. In 2019, I finished my internship in Euler Hermes Rating GmbH which is a part of Allianz. where I worked in Data Science Research & Development department. In 2020 November, I joined as a Research Assistant at Leibniz Institute/HBI. Currently, I am working in Desk-net GmbH as a data researcher assistant.
+# About Me
 
-## Expertise:
-Data Analysis: Python, R, Bash, SQL, Power BI, STATA, C++, Git, Git-version control, CLI
-Machine learning: TensorFlow, Keras, Pytorch, Deep Learning, Open Cv
-Dashboard: Streamlit and Plotly
+**I am an engineer with specialized expertise in machine learning, computer vision, and biomedical image analysis.** My foundation in data science, combined with proficiency in Python, enables me to develop and implement innovative solutions that tackle complex challenges. My skills help me extract meaningful insights from vast data sets, driving efficiency and innovation in various applications.
 
+---
 
-## Interest: 
+## Expertise
 
-Over the year I gain lots of experience by working with some brilliant minds. 
-I am intereted in the following topics:
-- Computer vision
-- Image processing
-- deep learning
-- Biomedical Image analyisis
-- Point Cloud 
+- **Programming**: Python, R, Bash, C++
+- **Data Science**: SQL, Power BI, STATA
+- **Machine Learning**: TensorFlow, Keras, Pytorch
+- **Visualization & Interfaces**: OpenCV, Streamlit, Plotly
+- **Tools & VCS**: Git, CLI
 
-## Open-source Projects and Prototype App:
-Data Analysis Project
--	SaVed: A simple data analyzing app for excel data. Build with Python, Pandas and Streamlit. Github link
--	DaZ: A data manipulation app Build with Python pandas and Plotly-Dash. Github link.
+---
 
-ML-Project
--	Simple Text Summarizer: A NLP app to summarize any English text. Based on hugging face T5 small model. Github link
--	Emotion Detection: A Deep Learning app trained on CNN for detecting emotion from image. Github link.
--	Parking Space Tracker: A simple project to track and count parking space from video feed. Based on Python and Open CV. Github link
--	Image Denoiser: A project to simply denoise image using Autoencoder based on CNN. Github link
--	Diffusion model Image denoiser: A simple trained model based on generative adversarial network. Github link
--	Lip reading: Machine learning app that can read lip from video feed. Github link
+## Interests
+
+I am passionate about:
+- **Computer Vision**
+- **Image Processing**
+- **Deep Learning**
+- **Biomedical Image Analysis**
+- **Point Cloud**
+
+---
+
+## Open-source Projects and Prototype Apps
+
+### Data Analysis Projects
+- **SaVed**: Data analyzing app for Excel, using Python, Pandas, and Streamlit. [GitHub](https://github.com/Khandoker09/SaVeDv0.1)
+- **DaZ**: Data manipulation app using Python, Pandas, and Plotly-Dash. [GitHub](https://github.com/Khandoker09/daZ-v0.2)
+
+### Machine Learning Projects
+- **Simple Text Summarizer**: NLP app summarizing English text with the Hugging Face T5 model. [GitHub](https://github.com/Khandoker09/simple_text_summarizer)
+- **Emotion Detection**: Deep Learning app using CNN to detect emotions from images. [GitHub](https://github.com/Khandoker09/image_deep_L)
+- **Parking Space Tracker**: Tracks and counts parking spaces from video feeds, built with Python and OpenCV. [GitHub](#)
+- **Image Denoiser**: Denoises images using an Autoencoder based on CNN. [GitHub](#)
+- **Diffusion Model Image Denoiser**: Based on a generative adversarial network. [GitHub](#)
+- **Lip Reading**: Machine learning app that reads lips from video feeds. [GitHub](#)
+
 

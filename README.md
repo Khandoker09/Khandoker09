@@ -12,7 +12,7 @@ My skills enable me to extract meaningful insights from vast data sets, driving 
 - **Programming**: Python, R, Bash, C++
 - **Data Science**: SQL, Power BI, STATA
 - **Machine Learning**: TensorFlow, Keras, Pytorch
-- **Visualization & Interfaces**: OpenCV, Streamlit, Plotly
+- **Visualization & Interfaces**: OpenCV, Streamlit, Plotly, Dash, Matplotlib
 - **Tools & VCS**: Git, CLI
 
 ---

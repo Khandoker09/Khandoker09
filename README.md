@@ -3,7 +3,7 @@
 </div>
 
 
-**I am an engineer with specialized expertise in machine learning, computer vision, and biomedical image analysis.** My foundation in data science, combined with proficiency in Python, enables me to develop and implement innovative solutions that tackle complex challenges. My skills help me extract meaningful insights from vast data sets, driving efficiency and innovation in various applications.
+**I am an engineer with specialized expertise in machine learning and data analytics. My strong foundation in data science, enhanced by my proficiency in Python, equips me to develop and implement innovative solutions that address complex challenges. My skills enable me to extract meaningful insights from vast data sets, driving efficiency and innovation across a range of applications.
 
 ---
 ## Expertise

@@ -8,16 +8,17 @@ layout: home
     <h1 style="color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">About Me</h1>
 </div>
 
-
-**I am an engineer with specialized expertise in machine learning, computer vision, and biomedical image analysis.** My foundation in data science, combined with proficiency in Python, enables me to develop and implement innovative solutions that tackle complex challenges. My skills help me extract meaningful insights from vast data sets, driving efficiency and innovation in various applications.
+**I am an engineer with specialized expertise in machine learning and data science. My strong foundation in data analytics, enhanced by my proficiency in Python, equips me to develop and implement innovative solutions 
+  that address complex challenges**.
+  My skills enable me to extract meaningful insights from vast data sets, driving efficiency and innovation across a range of applications.
 
 ---
 ## Expertise
 
 - **Programming**: Python, R, Bash, C++
 - **Data Science**: SQL, Power BI, STATA
-- **Machine Learning**: TensorFlow, Keras, Pytorch
-- **Visualization & Interfaces**: OpenCV, Streamlit, Plotly
+- **Machine Learning**: TensorFlow, Keras, PyTorch
+- **Visualization & Interfaces**: OpenCV, Streamlit, Plotly, Dash, Matplotlib
 - **Tools & VCS**: Git, CLI
 
 ---
@@ -25,9 +26,9 @@ layout: home
 
 **MSc in Microsystems and Microelectronics (MEMS)**
 Technology University Hamburg (TUHH)/Graduated: Feb 2024
-- Masters Project: New product Development strategy: Topic modelling based 
+- Masters Project: New product Development strategy: Topic modeling based 
 on Lenten Dirichlet Allocations Algorithms (NLP).
--	Master Thesis: Noise detection on High Density Point Cloud Data from a White Light Interferometer using deep learning. 
+-	Master Thesis: Noise detection on High-Density Point Cloud Data from a White Light Interferometer using deep learning. 
 -	Focusing on computer vision, machine learning and data science 
 
 **BSc in Electrical and Electronic Engineering (EEE)**

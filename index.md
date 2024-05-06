@@ -41,9 +41,8 @@ American International University – Bangladesh (AIUB)/Graduated: Feb 2016
 
 I am passionate about:
 - **Data Science**
-- **Computer Vision**
-- **Image Processing**
 - **Deep Learning**
+- **Computer Vision**
 - **Biomedical Image Analysis**
 - **Point Cloud**
 

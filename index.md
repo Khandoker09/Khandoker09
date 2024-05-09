@@ -8,9 +8,8 @@ layout: home
     <h1 style="color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">About Me</h1>
 </div>
 
-**I am an engineer with specialized expertise in machine learning and data science. My strong foundation in data analytics, enhanced by my proficiency in Python, equips me to develop and implement innovative solutions 
-  that address complex challenges**.
-  My skills enable me to extract meaningful insights from vast data sets, driving efficiency and innovation across a range of applications.
+**I am an engineer with specialized expertise in machine learning, Computer Vision and Image processing. My strong foundation in analytics, enhanced by my proficiency in Python, equips me to develop and implement innovative solutions that address complex challenges**.
+My skills enable me to extract meaningful insights from vast data sets, driving efficiency and innovation across a range of applications.
 
 ---
 ## Expertise
@@ -26,25 +25,25 @@ layout: home
 
 **MSc in Microsystems and Microelectronics (MEMS)**
 Technology University Hamburg (TUHH)/Graduated: Feb 2024
-- Masters Project: New product Development strategy: Topic modeling based 
-on Lenten Dirichlet Allocations Algorithms (NLP).
--	Master Thesis: Noise detection on High-Density Point Cloud Data from a White Light Interferometer using deep learning. 
--	Focusing on computer vision, machine learning and data science 
+- **Master Project**: New product Development strategy: Topic modeling-based 
+on Lenten Dirichlet Allocations Algorithms (**NLP**).
+- **Master Thesis**: Noise detection on High-Density **Point Cloud Data** from a White Light Interferometer using **deep learning**. 
+-	Focusing on **computer vision**, **machine learning** and **data science** 
 
 **BSc in Electrical and Electronic Engineering (EEE)**
 American International University – Bangladesh (AIUB)/Graduated: Feb 2016
 -	Bachelor Thesis: Mapping of Mammalian Purkinje Network on an Electrically Equivalent Circuit
--	Focusing on Electronics and Image data 
+-	Focusing on Electronics and **Image data** 
 
 ---
 ## Interests
 
 I am passionate about:
-- **Data Science**
 - **Deep Learning**
 - **Computer Vision**
 - **Biomedical Image Analysis**
 - **Point Cloud**
+- **Medical Technology**
 
 ---
 

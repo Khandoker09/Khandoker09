@@ -14,7 +14,7 @@ layout: page
 ### Machine Learning Projects
 - **Simple Text Summarizer**: An NLP app summarizing English text with the Hugging Face T5 model. [GitHub](https://github.com/Khandoker09/simple_text_summarizer)
 - **Emotion Detection**: A Deep Learning app using CNN to detect emotions from images. [GitHub](https://github.com/Khandoker09/image_deep_L)
-- **Parking Space Tracker**: A project to track and count parking spaces from video feeds, built with Python and OpenCV. [GitHub](#)
+- **Parking Space Tracker**: A project to track and count parking spaces from video feeds, built with Python and OpenCV. [GitHub](https://github.com/Khandoker09/Parkspacemonitor)
 - **Image Denoiser**: A project to simply denoise images using an Autoencoder based on CNN. [GitHub](#)
 - **Diffusion Model Image Denoiser**: A project based on a generative adversarial network. [GitHub](#)
 - **Lip Reading**: A machine learning app that can read lips from video feeds. [GitHub](#)

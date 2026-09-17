@@ -182,6 +182,14 @@ window.SITE_DATA = {
   ],
 
   publications: [
+        {
+      year: "2026",
+      type: "Journal article",
+      title:
+        "Accurate 3D maize ear phenotyping using voxel grids derived from RGB machine vision",
+      venue: "Plant Phenomics, 8, 100274",
+      url: "https://doi.org/10.1016/j.plaphe.2026.100274"
+    },
     {
       year: "2017",
       type: "Conference paper",
